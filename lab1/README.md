@@ -50,7 +50,6 @@ interface Vlan1
 ip default-gateway 192.168.1.1
 
 ####Настроим ip адрес на компьютере
-
 [](https://vscode.dev/github/Vadim716670/labs/blob/main/101.JPG)
 
 
