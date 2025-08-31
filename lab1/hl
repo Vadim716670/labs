@@ -23,7 +23,7 @@
 
 ####Подключимся консольным кабелем к коммутатором и настроим основные параметры
 
-[](hhttps://vscode.dev/github/Vadim716670/labs/blob/main/lab1/01.png)
+[] (hhttps://vscode.dev/github/Vadim716670/labs/blob/main/lab1/01.png)
 
 line con 0
  password 7 00071A150754
