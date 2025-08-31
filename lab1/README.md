@@ -1,7 +1,7 @@
 Лабораторная работа. Базовая настройка коммутатора 
 
 	Топология
-![](https://vscode.dev/github/Vadim716670/labs/blob/main/010.JPG "Заголовок 1")
+![](https://vscode.dev/github/Vadim716670/labs/blob/main/lab1/010.png"Заголовок 1")
 
 # Таблица адресации
 
@@ -84,7 +84,7 @@ ip default-gateway 192.168.1.1
 
 
 
-![] (https://vscode.dev/github/Vadim716670/labs/blob/main/101.JPG "Заголовок 3")
+![] (https://vscode.dev/github/Vadim716670/labs/blob/main/lab1/101.png "Заголовок 3")
 
 
 
